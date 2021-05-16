@@ -14,8 +14,7 @@ const MainPage: FC = () => {
     return (
         <Wrapper>
             <Content>
-
-                Strona fryzjer pozdrawiam :)
+                Strona fryzjer pozdrawiam :) Tomek
             </Content>
         </Wrapper>
     );
